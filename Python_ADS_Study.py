@@ -174,3 +174,5 @@ print('Status do Carro:')
 print(carro1.status())
 print('\nStatus da Bicicleta:')
 print(bicicleta1.status())
+
+
